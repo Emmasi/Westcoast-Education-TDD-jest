@@ -1,0 +1,81 @@
+{
+  "kurser": [
+    {
+      "id": "1",
+      "coursename": "Frontend Utveckling",
+      "coursetime": "3",
+      "date": "12/04-2023",
+      "description": "Ditan och dattan"
+    },
+    {
+      "id": "2",
+      "coursename": "React",
+      "coursetime": "5",
+      "date": "20/04-2023",
+      "description": "Ditan och dattan"
+    },
+    {
+      "id": "3",
+      "coursename": ".Net Utveckling",
+      "coursetime": "1.5",
+      "date": "02/04-2023",
+      "description": "Ditan och dattan"
+    },
+    {
+      "id": "4",
+      "coursename": "JavaScript Utveckling",
+      "coursetime": "3",
+      "date": "12/04-2020",
+      "description": "Ditan och dattan"
+    },
+    {
+      "id": "5",
+      "coursename": "TypeScript Utveckling",
+      "coursetime": "3",
+      "date": "12/04-2020",
+      "description": "Ditan och dattan"
+    }
+  ],
+  "teacher": [
+    {
+      "name": "Malva",
+      "kurs": "Frontend Utveckling",
+      "security": "XXXXXX-xxxx",
+      "email": "malva@email.com",
+      "mobile": "07XX XX XX XX",
+      "description": "Bla bla bla.."
+    },
+    {
+      "name": "Hampus",
+      "kurs": ".Net",
+      "security": "XXXXXX-xxxx",
+      "email": "Hampus@email.com",
+      "mobile": "07XX XX XX XX",
+      "description": "Bla bla bla.."
+    },
+    {
+      "name": "Nina",
+      "kurs": "JavaScript",
+      "security": "XXXXXX-xxxx",
+      "email": "Nina@email.com",
+      "mobile": "07XX XX XX XX",
+      "description": "Bla bla bla.."
+    },
+    {
+      "name": "Ludvig",
+      "kurs": "TypeScript",
+      "security": "XXXXXX-xxxx",
+      "email": "Ludvig@email.com",
+      "mobile": "07XX XX XX XX",
+      "description": "Bla bla bla.."
+    },
+    {
+      "name": "Lily",
+      "kurs": "Angular",
+      "security": "XXXXXX-xxxx",
+      "email": "Lily@email.com",
+      "mobile": "07XX XX XX XX",
+      "description": "Bla bla bla.."
+    }
+  ]
+}
